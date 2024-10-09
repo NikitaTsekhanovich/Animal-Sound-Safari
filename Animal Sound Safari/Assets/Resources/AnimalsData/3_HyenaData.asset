@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949f4149109c9384b88b633e18c0cb4b, type: 3}
+  m_Name: 3_HyenaData
+  m_EditorClassIdentifier: 
+  _index: 3
+  _spriteIcon: {fileID: 21300000, guid: 238b34a31348eb64a838177fe08f0e05, type: 3}
+  _spriteImage: {fileID: 21300000, guid: a2a33c1419a036e488ff6d9017be547b, type: 3}
+  _sound: {fileID: 8300000, guid: bb0b9048e395f4045940bb5ba335c990, type: 3}
+  _description: is both a predator and scavenger with powerful jaws and an excellent
+    sense of smell. Its unique "laughing" call is a symbol of the animal. Hyenas
+    live in clans with a complex social structure and often steal prey from other
+    predators.
+  _descriptionTitle: The hyena
+  _name: Hyena

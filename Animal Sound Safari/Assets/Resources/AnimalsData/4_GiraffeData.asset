@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949f4149109c9384b88b633e18c0cb4b, type: 3}
+  m_Name: 4_GiraffeData
+  m_EditorClassIdentifier: 
+  _index: 4
+  _spriteIcon: {fileID: 21300000, guid: 482453b50ede3114a809cf04d4620abc, type: 3}
+  _spriteImage: {fileID: 21300000, guid: 4041ba741471fab4c9bb95aa3565bf0e, type: 3}
+  _sound: {fileID: 8300000, guid: 5dd45c2f5577f714c9de1d2644e75d35, type: 3}
+  _description: is the tallest land animal on Earth, with a long neck and legs. Giraffes
+    feed on tree leaves, especially acacia trees, reaching the highest branches.
+    Their brightly spotted coat helps them blend in among the trees of the savanna.
+  _descriptionTitle: The giraffe
+  _name: Giraffe

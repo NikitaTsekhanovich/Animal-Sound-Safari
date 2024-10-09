@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949f4149109c9384b88b633e18c0cb4b, type: 3}
+  m_Name: 6_CrocodileData
+  m_EditorClassIdentifier: 
+  _index: 6
+  _spriteIcon: {fileID: 21300000, guid: 82483a5e34a9a93488009b6c865af647, type: 3}
+  _spriteImage: {fileID: 21300000, guid: 64d3a4c18571ea849b1ac7cf86190c07, type: 3}
+  _sound: {fileID: 8300000, guid: ac52dcc42836bef4f9f400629ee17932, type: 3}
+  _description: is an ancient predator with a powerful body, jaws, and long tail.
+    It spends much of its time in water, lurking just below the surface while waiting
+    for prey. Crocodiles can hunt a wide range of animals, including fish, mammals,
+    and birds.
+  _descriptionTitle: The crocodile
+  _name: Crocodile

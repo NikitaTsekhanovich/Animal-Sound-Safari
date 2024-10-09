@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949f4149109c9384b88b633e18c0cb4b, type: 3}
+  m_Name: 10_RhinocerosData
+  m_EditorClassIdentifier: 
+  _index: 10
+  _spriteIcon: {fileID: 21300000, guid: fa11d1cb9279c4d4780fbfe50a6771ca, type: 3}
+  _spriteImage: {fileID: 21300000, guid: 6c82c44794b6c9846a706db7510d5a43, type: 3}
+  _sound: {fileID: 8300000, guid: 5381fe25daec67c46974cd169ec2218f, type: 3}
+  _description: is a large herbivore with thick skin and one or two horns on its
+    nose. Rhinos are solitary and feed on grass and leaves. Their horns are used
+    for defense and in mating battles. Despite their size, they can run quickly and
+    become dangerous when threatened.
+  _descriptionTitle: The rhinoceros
+  _name: Rhinoceros

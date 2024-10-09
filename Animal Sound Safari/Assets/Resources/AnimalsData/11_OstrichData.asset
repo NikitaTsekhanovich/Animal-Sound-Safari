@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949f4149109c9384b88b633e18c0cb4b, type: 3}
+  m_Name: 11_OstrichData
+  m_EditorClassIdentifier: 
+  _index: 11
+  _spriteIcon: {fileID: 21300000, guid: 93d1bf01d53307348b01a2a573e80447, type: 3}
+  _spriteImage: {fileID: 21300000, guid: 181054a6a946a904fb0c6fa24acfcc00, type: 3}
+  _sound: {fileID: 8300000, guid: cd65e627daa826a489f65260091c69d9, type: 3}
+  _description: is the largest bird on Earth, unable to fly but capable of running
+    at speeds up to 70 km/h (43 mph). Ostriches have long legs and powerful claws,
+    which they use for defense. These birds live in flocks and inhabit African savannas
+    and deserts.
+  _descriptionTitle: The ostrich
+  _name: Ostrich

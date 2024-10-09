@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949f4149109c9384b88b633e18c0cb4b, type: 3}
+  m_Name: 7_LionData
+  m_EditorClassIdentifier: 
+  _index: 7
+  _spriteIcon: {fileID: 21300000, guid: a38d28f05b10e7b4bbea9b764724c07f, type: 3}
+  _spriteImage: {fileID: 21300000, guid: b09474957f7434940a43e48fb0bdb2f9, type: 3}
+  _sound: {fileID: 8300000, guid: 33e8fb9019fa8c1449b20b5c125ef748, type: 3}
+  _description: is a majestic predator known as the "king of beasts." Lions live
+    in prides, and the males with large manes protect the group. Lionesses hunt together,
+    often targeting large herbivores like antelopes and buffaloes.
+  _descriptionTitle: The lion
+  _name: Lion

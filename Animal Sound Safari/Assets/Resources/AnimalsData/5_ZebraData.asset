@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949f4149109c9384b88b633e18c0cb4b, type: 3}
+  m_Name: 5_ZebraData
+  m_EditorClassIdentifier: 
+  _index: 5
+  _spriteIcon: {fileID: 21300000, guid: 343874d9fb604684e8b5acd2ae3c7f77, type: 3}
+  _spriteImage: {fileID: 21300000, guid: 7b7e6983cb15ea44eb85e591e3fb7ba6, type: 3}
+  _sound: {fileID: 8300000, guid: 02db6fd1f228ccc4fa212fa429e37549, type: 3}
+  _description: is a herbivore with a distinctive black-and-white striped pattern.
+    Each zebra's stripes are unique and help camouflage them from predators. Zebras
+    live in herds and often migrate in search of food and water.
+  _descriptionTitle: The zebra
+  _name: Zebra
